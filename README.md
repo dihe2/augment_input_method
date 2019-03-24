@@ -8,3 +8,5 @@ The model is evaluated on Twitter data collected in 2 weeks from the Twitter API
 
 The geographic information of these tweets has been collected using Google Place API (https://developers.google.com/places/).
 More details on the project can be found in the augmenting-input-method.pdf included with the repository.
+
+If you find resource from this repository helpful, please consider citing the work at https://arxiv.org/pdf/1809.08349.pdf .
